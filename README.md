@@ -17,4 +17,8 @@ $git clone https://github.com/SagirDEVIL/Vampire-Devil
 $cd Vampire-Devil
 
 $python2 Sagir_Devil.py
+
+Username-Sagir
+
+Password-Devil
    
